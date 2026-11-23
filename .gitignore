@@ -1,0 +1,24 @@
+# 개인정보가 들어 있는 원본 서류 (신청서, 증빙자료 등) - 절대 올리지 않음
+_private/
+
+# 앱 설치 파일은 저장소 대신 GitHub Releases에 올림
+releases/
+*.apk
+*.aab
+
+# 혹시 실수로 루트에 둔 서류 파일
+*.zip
+*.pdf
+*.hwp
+*.hwpx
+
+# 비밀 키, 환경 설정
+.env
+*.keystore
+*.jks
+google-services.json
+
+# 운영체제/편집기 찌꺼기
+Thumbs.db
+desktop.ini
+.DS_Store
