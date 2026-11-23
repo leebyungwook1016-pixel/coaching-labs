@@ -22,3 +22,7 @@ google-services.json
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# 카톡으로 받은 파일은 정리 전까지 올리지 않음
+KakaoTalk_*
+
