@@ -10,7 +10,7 @@
 |---|---|
 | <img src="docs/images/screen-1-start.png" width="420"> | <img src="docs/images/screen-2-input.png" width="420"> |
 | **8주 훈련 계획** | **춘천 코스 지도** |
-| <img src="docs/images/screen-3-plan.png" width="420"> | <img src="docs/images/screen-4-map.png" width="420"> |
+| <img src="docs/images/screen-3-plan.png" width="420"> | <img src="docs/images/screen-4-map.jpg" width="420"> |
 | **코스 상세와 주변 명소** | |
 | <img src="docs/images/screen-5-course.png" width="420"> | |
 
